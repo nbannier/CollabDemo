@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Ce site collaboratif est mis en place dans le cadre des [TraAM EMI](https://eduscol.education.fr/692/les-travaux-academiques-mutualises-traam) dans l'académie de Strasbourg.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Il est enrichi par une équipe pluri-disciplinaire de l'académie de Strasbourg, autour d'un noyau d'enseignants engagés dans les commissions numériques de documentation et des lettres.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Le thème retenu au niveau national pour les TraAM EMI est celui de la créativité numérique.
+
+Ce site est conçu comme le journal de notre expérimentation.
+
+Ce site est hébergé sur [https://github.com/nbannier/TraamEmi](dans un dépôt GitHub) et est fondé sur [Jekyll](http://jekyllrb.com/)
