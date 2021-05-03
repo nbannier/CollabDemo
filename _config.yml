@@ -1,0 +1,17 @@
+# Site settings
+title: Collaborative Publishing Jekyll Demo Site
+email: youremail@email.com # Change to your email address
+description: > 
+  Our site for demonstrating how to build a collaborative publishing ecosystem with Jekyll hosted on GitHub Pages, built for a Programming Historian lesson.
+url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: username # change to your Twitter username, no @ prefix
+github_username:  username # change to your GitHub username or org name
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
